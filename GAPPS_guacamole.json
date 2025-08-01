@@ -1,0 +1,28 @@
+{
+	"response": [
+		{
+			"maintainer": "Runds",
+			"oem": "OnePlus",
+			"device": "OnePlus 7 Pro",
+			"filename": "RisingOS_Revived-8.0-250801-0636-GAPPS-UNOFFICIAL-guacamole-ota.zip",
+			"download": "https://sourceforge.net/projects/risingos-revived/files/8.x/GAPPS/guacamole/RisingOS_Revived-8.0-250801-0636-GAPPS-UNOFFICIAL-guacamole-ota.zip/download",
+			"timestamp": 1754001200,
+			"md5": "51e7dc5d7fc57669c7b597b53504382b",
+			"sha256": "6cf076dfa1bdf0e07f5eb66cfe57db277b2980acc7277c8e76f0df0d198bef1c",
+			"size": 1701836550,
+			"version": "8.0-Zorya",
+			"buildtype": "非官方",
+			"forum": "https://www.coolapk.com/u/27842294",
+			"gapps": "",
+			"firmware": "",
+			"modem": "",
+			"bootloader": "",
+			"recovery": "",
+			"paypal": "",
+			"telegram": "",
+			"dt": "",
+			"common-dt": "",
+			"kernel": ""
+		}
+	]
+}
