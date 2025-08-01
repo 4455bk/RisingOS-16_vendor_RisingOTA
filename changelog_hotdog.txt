@@ -1,0 +1,10 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: OnePlus 7T Pro
+Device maintainer: Runds
+
+===== 2025-08-01 =====
+
+• 更新到 Rising OS 8.0
+• 更新 SukiSU Ultra (v3.1.8-323a8d4b@susfs-test)
+• 更新 Susfs 1.5.9 (backport)
