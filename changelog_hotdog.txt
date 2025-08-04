@@ -3,8 +3,9 @@ Build type: Monthly
 Device: OnePlus 7T Pro
 Device maintainer: Runds
 
-===== 2025-08-01 =====
+===== 2025-08-05 =====
 
-• 更新到 Rising OS 8.0
-• 更新 SukiSU Ultra (v3.1.8-323a8d4b@susfs-test)
-• 更新 Susfs 1.5.9 (backport)
+• 修复了小窗在某些情况下的崩溃
+• 更新 SukiSU Ultra (v3.1.8-9e29b2c3@susfs-test)
+• 补充汉化
+• 内置了修改版 devcfg，可以在 Rising OS + Windows 双系统下启动 Windows 了，这下双系统都可以随意 OTA 了，不需要每次 OTA 都要刷一次 devcfg 了
