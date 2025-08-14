@@ -3,9 +3,11 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2025-08-05 =====
+===== 2025-08-14 =====
 
-• 修复了小窗在某些情况下的崩溃
-• 更新 SukiSU Ultra (v3.1.8-9e29b2c3@susfs-test)
-• 补充汉化
-• 内置了修改版 devcfg，可以在 Rising OS + Windows 双系统下启动 Windows 了，这下双系统都可以随意 OTA 了，不需要每次 OTA 都要刷一次 devcfg 了
+• 更新到 8.1
+• 更新 SukiSU Ultra (v3.1.8-5a93a7e7@susfs-test)
+• Susfs 更新支持 susfs set avc log spoofing 特性
+• QuickSwitch 回归，支持三桌面
+• Ortus 桌面回归
+• 一些 Bug 修复
