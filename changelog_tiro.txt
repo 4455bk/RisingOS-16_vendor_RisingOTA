@@ -1,0 +1,8 @@
+Highlights & Device Specific Changes:
+Build type: Monthly
+Device: RedMagic 9 Pro
+Device maintainer: Runds
+
+===== 2025-08-21 =====
+
+• 首个版本
