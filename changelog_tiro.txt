@@ -3,6 +3,16 @@ Build type: Monthly
 Device: RedMagic 9 Pro
 Device maintainer: Runds
 
-===== 2025-08-21 =====
+===== 2025-08-23 =====
 
-• 首个版本
+• 同步最新源码但退回 CLO 的合并 (因为动态刷新率异常)
+• 快速面板小组件现在可用
+• 为通知栏底部操作添加触觉反馈
+• 通知栏底部数据流量显示回归
+• 长按通知栏的设置按钮会打开 rising 自定义设置
+• 修复 QS 标头内存泄漏
+• 修复莫奈主题变更崩溃
+• 修复边缘闪光
+• Sukisu 更新 v3.1.8-cb1d6800@susfs-test
+• KPM 修补更新 0810
+• 移植 ReKernel 支持 6.1 内核的 proc_ops 结构体
