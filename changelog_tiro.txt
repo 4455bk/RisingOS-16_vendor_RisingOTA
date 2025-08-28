@@ -3,7 +3,11 @@ Build type: Monthly
 Device: RedMagic 9 Pro
 Device maintainer: Runds
 
-===== 2025-08-24 =====
+===== 2025-08-28 =====
 
-• 默认开启 Fsync，避免崩溃时丢失数据，其实 UFS4.0 也够快了
-• 优化功耗
+• 包含 CLO 合并
+• 允许在新的 QS Compose 中进行行和列修改
+• 优化主屏幕到桌面模式的过渡速度
+• 修复 HWUI 中避免应用崩溃的问题
+• Sukisu 更新 v3.1.9-3ad22417@susfs-test
+• 增加快充识别
