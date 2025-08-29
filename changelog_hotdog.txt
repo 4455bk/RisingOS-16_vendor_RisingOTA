@@ -3,11 +3,12 @@ Build type: Monthly
 Device: OnePlus 7T Pro
 Device maintainer: Runds
 
-===== 2025-08-14 =====
+===== 2025-08-30 =====
 
-• 更新到 8.1
-• 更新 SukiSU Ultra (v3.1.8-5a93a7e7@susfs-test)
-• Susfs 更新支持 susfs set avc log spoofing 特性
-• QuickSwitch 回归，支持三桌面
-• Ortus 桌面回归
+• 同步最新源码
+• 包含 CLO 合并，带来性能提升
 • 一些 Bug 修复
+• 更新 SukiSU Ultra (v3.1.9-6e5226ef@susfs-test)
+• 同步 Susfs 最新代码
+• 新的 Tracepoint Hook，性能消耗更小且稳定性高
+• 修复 ReKernel 握手失败
