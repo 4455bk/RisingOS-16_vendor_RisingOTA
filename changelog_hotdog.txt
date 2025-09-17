@@ -3,12 +3,15 @@ Build type: Monthly
 Device: OnePlus 7T Pro
 Device maintainer: Runds
 
-===== 2025-08-30 =====
+===== 2025-09-18 =====
 
 • 同步最新源码
-• 包含 CLO 合并，带来性能提升
-• 一些 Bug 修复
-• 更新 SukiSU Ultra (v3.1.9-6e5226ef@susfs-test)
-• 同步 Susfs 最新代码
-• 新的 Tracepoint Hook，性能消耗更小且稳定性高
-• 修复 ReKernel 握手失败
+• 大量代码重构
+• 增加 flashlight 震动反馈
+• 增加唤醒手势震动反馈等新功能
+• 移除了没用的 AI 助手
+• 三指滑动手势更新
+• 补充汉化
+• 添加波兰运营商配置
+• Sukisu 更新 v3.1.9-da5932a8@susfs-test
+• Susfs 同步最新代码
