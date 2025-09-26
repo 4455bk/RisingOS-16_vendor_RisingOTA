@@ -3,15 +3,18 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2025-09-18 =====
+===== 2025-09-26 =====
 
 • 同步最新源码
-• 大量代码重构
-• 增加 flashlight 震动反馈
-• 增加唤醒手势震动反馈等新功能
-• 移除了没用的 AI 助手
-• 三指滑动手势更新
+• 更新到 8.1.1
+• 增加了快速面板亮度条形状设置
+• 增加关机身份验证
+• LTE 和 4G 图标切换
+• 优化快速面板动画和内存占用
+• 允许在新 QS Compose 上修改行和列
+• 移除了失效的 play store 伪装
+• 屏下指纹闪烁优化
 • 补充汉化
-• 添加波兰运营商配置
-• Sukisu 更新 v3.1.9-da5932a8@susfs-test
-• Susfs 同步最新代码
+• Sukisu 更新 v3.2.0-589c3853@susfs-test
+• Susfs 更新 1.5.10
+• 等等
