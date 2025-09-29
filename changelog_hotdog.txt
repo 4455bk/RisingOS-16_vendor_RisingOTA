@@ -3,18 +3,18 @@ Build type: Monthly
 Device: OnePlus 7T Pro
 Device maintainer: Runds
 
-===== 2025-09-26 =====
+===== 2025-09-30 =====
 
 • 同步最新源码
 • 更新到 8.1.1
-• 增加了快速面板亮度条形状设置
-• 增加关机身份验证
-• LTE 和 4G 图标切换
-• 优化快速面板动画和内存占用
-• 允许在新 QS Compose 上修改行和列
-• 移除了失效的 play store 伪装
-• 屏下指纹闪烁优化
+• 切换到 lineage 23.0 hals
+• 省电模式重构
+• 优化 services 进程内存占用
+• 新增了一个电源菜单流体样式
+• Keybox 伪装新增私有密钥
 • 补充汉化
-• Sukisu 更新 v3.2.0-589c3853@susfs-test
-• Susfs 更新 1.5.10
+• 去除状态栏右侧的隐私指示器小绿点占位符
+• 调整并对齐状态栏默认填充，现在两侧不会有大量空白区域了
+• Sukisu 更新 v3.2.0-51e6a1b6@susfs-test
+• 更新 Tracepoint hook 以适应最新的 susfs-test 分支
 • 等等
