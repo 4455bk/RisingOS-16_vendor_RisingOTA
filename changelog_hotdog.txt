@@ -3,18 +3,18 @@ Build type: Monthly
 Device: OnePlus 7T Pro
 Device maintainer: Runds
 
-===== 2025-09-30 =====
+===== 2025-10-17 =====
 
 • 同步最新源码
-• 切换到 lineage 23.0 hals
-• 省电模式重构
-• 优化 services 进程内存占用
-• 新增了一个电源菜单流体样式
-• Keybox 伪装新增私有密钥
+• 十月安全补丁
+• 动态字体功能
+• 通知透明度切换
+• 优化息屏时系统进程使用
 • 补充汉化
-• 去除状态栏右侧的隐私指示器小绿点占位符
-• 调整并对齐状态栏默认填充，现在两侧不会有大量空白区域了
-• 修复铃声、通知提示音选择崩溃
-• Sukisu 更新 v3.2.0-51e6a1b6@susfs-test
+• 修复截图编辑
+• Fsync 设置为默认开启，避免某些情况丢失数据
+• 内核更新，backport 更多高版本的特性，比如来自 6.1 内核的 set_memory.h 以对 KPM 有着更好的兼容
+• Sukisu 更新 v3.2.0-761b5ee6@susfs-test
 • 更新 Tracepoint hook 以适应最新的 susfs-test 分支
+• Susfs 更新 1.5.12
 • 等等
