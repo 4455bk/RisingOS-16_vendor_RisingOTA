@@ -3,18 +3,9 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2025-10-17 =====
+===== 2025-10-18 =====
 
-• 同步最新源码
-• 十月安全补丁
-• 动态字体功能
-• 通知透明度切换
-• 优化息屏时系统进程使用
-• 补充汉化
-• 修复截图编辑
-• Fsync 设置为默认开启，避免某些情况丢失数据
-• 内核更新，backport 更多高版本的特性，比如来自 6.1 内核的 set_memory.h 以对 KPM 有着更好的兼容
-• Sukisu 更新 v3.2.0-761b5ee6@susfs-test
-• 更新 Tracepoint hook 以适应最新的 susfs-test 分支
-• Susfs 更新 1.5.12
+• 默认强制关闭输入法底栏空间
+• 默认去除 Lineage 属性标识，无需再刷隐藏模块
+• 从 userdebug 编译类型转到 user，避免某些毒瘤的检测
 • 等等
