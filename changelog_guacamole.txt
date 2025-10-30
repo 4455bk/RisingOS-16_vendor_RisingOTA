@@ -3,10 +3,24 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2025-10-20 =====
+===== 2025-10-30 =====
 
-• 状态栏下拉面板的时钟、信号等图标的反色总算是修复了，但又没完全修复，与自定义时钟样式冲突
-• 补充桌面设置的汉化
-• 新增了一些锁屏时钟样式
-• backport 了 Sus Map 映射功能，可隐藏内存映射的真实路径
+• 修复状态栏下拉面板自定义时钟样式与反色冲突
+• 新增状态栏下拉面板迷你播放器
+• 新增 NothingOS 铃声磁贴样式
+• 新增刷新率管理器，每个应用可单独配置
+• 去除新增的磁贴边缘，个人感觉丑
+• 状态栏网速重构
+• keybox 伪装更新
+• 自动重置哈希值
+• Gapps 更新
+• 补充汉化
+• 修复小窗在某些情况下软重启
+• 修复一些软件由于墓碑冻结导致的卡死
+• 修复输入法底栏空间切换，不再强制关闭
+• 侧边栏支持自定义
+• 在 user 编译类型下默认启用 adb 授权与 adb su 权限，与 userdebug 版本一样
+• 内核改名为 Runds
+• Sukisu 更新 v3.2.0-343c6452@susfs-test
+• 把 sus map 和 susfs 的函数名 susfs_is_current_non_root_user_app_proc 改成 susfs_is_current_proc_umounted 以适应最新的 sukisu
 • 等等
