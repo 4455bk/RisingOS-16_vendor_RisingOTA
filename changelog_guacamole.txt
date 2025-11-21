@@ -3,20 +3,8 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2025-11-18 =====
+===== 2025-11-21 =====
 
-• Pixel framework 更新
-• 大量代码重构
-• 设置部分 UI 变化
-• Expressive design UI 风格更新
-• 使用 Material3 风格的开关按钮替换浮动设置面板中的开关按钮替
-• 漫游指示器更新
-• 屏幕录制图标更新
-• 更新推广通知信息中的颜色和文本
-• 添加新的磁贴图标
-• 修复媒体状态更新问题
-• 修复高亮背景选项填充
-• 修复图标缩放
-• 新增允许覆盖模拟位置限制功能
-• 汉化更新
-sukisu 暂不更新，非 gki 的支持还不完善
+• Sukisu 同步更新 v4.0.0-05758a9@susfs-main
+• 切换到 Inline Hook
+• Susfs 更新 2.0.0
