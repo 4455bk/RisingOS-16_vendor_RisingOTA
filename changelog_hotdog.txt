@@ -3,8 +3,10 @@ Build type: Monthly
 Device: OnePlus 7T Pro
 Device maintainer: Runds
 
-===== 2025-11-21 =====
+===== 2026-01-13 =====
 
-• Sukisu 同步更新 v4.0.0-05758a9@susfs-main
-• 切换到 Inline Hook
-• Susfs 更新 2.0.0
+• Sukisu 更新 v4.1.0-3e94960c@tmp-builtin
+• 同步最新 susfs 代码
+• ReKernel 更新到 v8.6
+• 新的设置搜索栏默认样式
+• 修复电池设置省电模式选项崩溃
