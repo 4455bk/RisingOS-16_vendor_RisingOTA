@@ -3,10 +3,11 @@ Build type: Monthly
 Device: OnePlus 7T Pro
 Device maintainer: Runds
 
-===== 2026-01-13 =====
+===== 2026-03-17 =====
 
-• Sukisu 更新 v4.1.0-3e94960c@tmp-builtin
+• 内核代码更新
+• 从 Sukisu 更换到更稳定的 Resukisu，版本 4.1.0-64864d03
 • 同步最新 susfs 代码
-• ReKernel 更新到 v8.6
-• 新的设置搜索栏默认样式
-• 修复电池设置省电模式选项崩溃
+• KPM 修补更新 0.13.0-260130
+• 补充锁屏自定义的汉化
+• 补充锁屏防误触界面的汉化
