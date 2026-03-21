@@ -3,9 +3,7 @@ Build type: Monthly
 Device: RedMagic 9 Pro
 Device maintainer: Runds
 
-===== 2026-03-21 =====
+===== 2026-03-22 =====
 
-• ReSukisu 更新 4.1.0-5e0d1db5
-• Susfs 更新 2.1.0
-• 修复竞技键功能失效
-• 修复竞技键功能数组越界崩溃
+• ReSukisu 更新 4.1.0-7dab6c50
+• 调整 GPU 降压幅度，避免部分游戏花屏
