@@ -3,12 +3,9 @@ Build type: Monthly
 Device: RedMagic 9 Pro
 Device maintainer: Runds
 
-===== 2026-03-17 =====
+===== 2026-03-21 =====
 
-• 内核上游 6.1.166
-• 从 Sukisu 更换到更稳定的 Resukisu，版本 4.1.0-64864d03
-• 同步最新 susfs 代码
-• KPM 修补更新 0.13.0-260130
-• 补充锁屏自定义的汉化
-• 补充锁屏防误触界面的汉化
-• 红魔功能更新
+• ReSukisu 更新 4.1.0-5e0d1db5
+• Susfs 更新 2.1.0
+• 修复竞技键功能失效
+• 修复竞技键功能数组越界崩溃
