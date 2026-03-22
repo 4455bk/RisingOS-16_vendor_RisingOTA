@@ -3,11 +3,7 @@ Build type: Monthly
 Device: OnePlus 7 Pro
 Device maintainer: Runds
 
-===== 2026-03-17 =====
+===== 2026-03-22 =====
 
-• 内核代码更新
-• 从 Sukisu 更换到更稳定的 Resukisu，版本 4.1.0-64864d03
-• 同步最新 susfs 代码
-• KPM 修补更新 0.13.0-260130
-• 补充锁屏自定义的汉化
-• 补充锁屏防误触界面的汉化
+• ReSukisu 更新 4.1.0-67755808
+• Susfs 更新 2.1.0
